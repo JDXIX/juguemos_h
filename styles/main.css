@@ -222,7 +222,7 @@
   }
   .carta-trasera {
     background-color: var(--color-blanco);
-    color: var(--color-texto);
+    color: var(--color-secundario);
     transform: rotateY(180deg);
     padding: 1rem;
   }
