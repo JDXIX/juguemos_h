@@ -218,7 +218,7 @@
   }
   .carta-frontal {
     background-color: var(--color-secundario);
-    color: var(--color-blanco);
+    color: var(--color-secundario);
   }
   .carta-trasera {
     background-color: var(--color-blanco);
